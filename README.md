@@ -7,6 +7,7 @@ It's a small application for predicting the winning probability based on teams p
 
 Modules used =>
 - tkinter
+- pickle
 - pyinstaller
 - matplotlib
 - numpy
