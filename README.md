@@ -14,6 +14,6 @@ It's a small application for predicting the winning probability based on teams p
 - scikit-learn
 - pandas
 
-### How to use =>
+### Way to use :
 
 &nbsp;&nbsp;&nbsp;&nbsp;Just download .pkl file and .exe file and run on your machine. Due to large size of .exe file it might few seconds to run.
